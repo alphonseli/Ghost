@@ -1,3 +1,5 @@
+加入自定义的dockerfile：based on alpine，exclude mysql
+
 &nbsp;
 <p align="center">
   <a href="https://ghost.org/#gh-light-mode-only" target="_blank">
